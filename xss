@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>"><img src onerror=alert(domain)></title>
+<title><img src onerror=alert(document.domain)></title>
 </head>
 <body>
 </body>
